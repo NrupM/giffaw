@@ -1,0 +1,8 @@
+img{
+  display:inline-block;
+  clear: both;
+}
+
+.gif-gallery{
+  float:right;
+}
